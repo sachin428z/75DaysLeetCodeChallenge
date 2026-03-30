@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3866-first-unique-even-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3866-first-unique-even-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
