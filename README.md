@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [1192-critical-connections-in-a-network](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 ## Graph Theory
 |  |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
