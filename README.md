@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 ## Queue
@@ -289,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
