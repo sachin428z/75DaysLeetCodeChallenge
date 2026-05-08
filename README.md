@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0977-squares-of-a-sorted-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Math
