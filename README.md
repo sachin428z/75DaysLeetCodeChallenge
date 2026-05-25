@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0977-squares-of-a-sorted-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
