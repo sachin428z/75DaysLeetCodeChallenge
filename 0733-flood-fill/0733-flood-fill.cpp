@@ -18,6 +18,6 @@ public:
     {
         int val = image[sr][sc];
         dfs(image,sr,sc,val,newColor);
-        return image;
+        return  image;
     }
 };
