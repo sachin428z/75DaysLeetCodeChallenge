@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
 | [3866-first-unique-even-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3866-first-unique-even-element) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Biconnected Component
