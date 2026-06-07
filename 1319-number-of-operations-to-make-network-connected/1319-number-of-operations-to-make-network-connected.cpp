@@ -1,38 +1,36 @@
-class DSU {
-    vector<int> parent, rank;
-
+class DisjointSet {
 public:
-    DSU(int n) {
-        parent.resize(n);
-        rank.resize(n, 0);
+    vector<int> rank, parent, size;
 
-        for(int i = 0; i < n; i++) {
+    DisjointSet(int n) {
+        rank.resize(n + 1, 0);
+        parent.resize(n + 1);
+        size.resize(n + 1);
+
+        for (int i = 0; i <= n; i++) {
             parent[i] = i;
+            size[i] = 1;
         }
     }
 
-    int find(int x) {
-        if(parent[x] != x)
-            parent[x] = find(parent[x]);
-
-        return parent[x];
+    int findUPar(int node) {
+        if (node == parent[node])
+            return node;
+        return parent[node] = findUPar(parent[node]);
     }
 
-    void unite(int x, int y) {
-        int px = find(x);
-        int py = find(y);
+    void unionBySize(int u, int v) {
+        int ulp_u = findUPar(u);
+        int ulp_v = findUPar(v);
 
-        if(px == py) return;
+        if (ulp_u == ulp_v) return;
 
-        if(rank[px] < rank[py])
-            parent[px] = py;
-
-        else if(rank[px] > rank[py])
-            parent[py] = px;
-
-        else {
-            parent[py] = px;
-            rank[px]++;
+        if (size[ulp_u] < size[ulp_v]) {
+            parent[ulp_u] = ulp_v;
+            size[ulp_v] += size[ulp_u];
+        } else {
+            parent[ulp_v] = ulp_u;
+            size[ulp_u] += size[ulp_v];
         }
     }
 };
@@ -41,21 +39,35 @@ class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
 
-        if(connections.size() < n - 1)
-            return -1;
+        DisjointSet ds(n);
 
-        DSU dsu(n);
+        int cntExtras = 0;
 
-        for(auto &edge : connections) {
-            dsu.unite(edge[0], edge[1]);
+        for(auto &it : connections) {
+
+            int u = it[0];
+            int v = it[1];
+
+            if(ds.findUPar(u) == ds.findUPar(v)) {
+                cntExtras++;
+            }
+            else {
+                ds.unionBySize(u, v);
+            }
         }
 
-        unordered_set<int> components;
+        int cntC = 0;
 
         for(int i = 0; i < n; i++) {
-            components.insert(dsu.find(i));
+            if(ds.parent[i] == i)
+                cntC++;
         }
 
-        return components.size() - 1;
+        int required = cntC - 1;
+
+        if(cntExtras >= required)
+            return required;
+
+        return -1;
     }
 };
