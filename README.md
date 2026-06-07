@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
+| [0827-making-a-large-island](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
