@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
