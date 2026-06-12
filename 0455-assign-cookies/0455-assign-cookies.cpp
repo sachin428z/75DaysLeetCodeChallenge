@@ -8,8 +8,10 @@ public:
         while(l<g.size() && r<s.size()) {
             if(s[r]>=g[l]) {
                 l++;
+                r++;
+            } else {
+                r++;
             }
-            r++;
         }
         return l;
     }
