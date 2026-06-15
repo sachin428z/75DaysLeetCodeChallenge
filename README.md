@@ -591,4 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
