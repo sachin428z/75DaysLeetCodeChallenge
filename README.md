@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3894-traffic-signal-color) |
+| [3931-check-adjacent-digit-differences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3931-check-adjacent-digit-differences) |
 ## Divide and Conquer
 |  |
 | ------- |
