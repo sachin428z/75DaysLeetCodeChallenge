@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0126-word-ladder-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0126-word-ladder-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0126-word-ladder-ii) |
