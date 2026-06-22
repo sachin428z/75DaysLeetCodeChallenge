@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
