@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
