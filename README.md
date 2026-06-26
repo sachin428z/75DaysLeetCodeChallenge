@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+| [2833-furthest-point-from-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3931-check-adjacent-digit-differences) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [3866-first-unique-even-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3866-first-unique-even-element) |
 ## Quickselect
 |  |
