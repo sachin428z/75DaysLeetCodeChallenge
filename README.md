@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3523-make-array-non-decreasing](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3523-make-array-non-decreasing) |
 ## Backtracking
 |  |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2843-count-symmetric-integers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
