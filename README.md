@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3523-make-array-non-decreasing](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3523-make-array-non-decreasing) |
+| [3701-compute-alternating-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
