@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1528-shuffle-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1528-shuffle-string) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1598-crawler-log-folder](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1106-parsing-a-boolean-expression](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1528-shuffle-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
