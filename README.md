@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
+| [2103-rings-and-rods](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2103-rings-and-rods) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2103-rings-and-rods](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2103-rings-and-rods) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2810-faulty-keyboard](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
