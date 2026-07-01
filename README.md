@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Stack
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1837-sum-of-digits-in-base-k) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0980-unique-paths-iii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 ## Tree
@@ -826,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Shortest Path
 |  |
 | ------- |
