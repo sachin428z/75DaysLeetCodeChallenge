@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0721-accounts-merge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0721-accounts-merge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
