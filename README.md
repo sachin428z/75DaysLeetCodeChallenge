@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2179-count-good-triplets-in-an-array) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0641-design-circular-deque) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2179-count-good-triplets-in-an-array) |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2179-count-good-triplets-in-an-array) |
