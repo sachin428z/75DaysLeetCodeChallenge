@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
