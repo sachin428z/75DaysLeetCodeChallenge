@@ -1,7 +1,7 @@
 class Solution {
 public:
     string categorizeBox(int length, int width, int height, int mass) {
-        long long v=1LL*length*width*height;
+        long long v=1LL*length*width*height; // overflow before assigning
         int b=0,h=0; // if not initalize , it will take garbage values
         
         
